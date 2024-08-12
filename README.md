@@ -1,4 +1,4 @@
-![Header](./Imagens/banner.png)
+![Header](banner.png)
 
 Eai✌🏻, 
 
